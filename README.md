@@ -11,4 +11,5 @@ Les fichiers `.algo` sont situés dans le dossier `src/`.
 4. Sélectionner le fichier `.algo` dans le dossier `src/`.
 
 ## Lien GitHub
-Lien figé (tag/release) : À compléter une fois la release créée.
+https://github.com/ViktorStopar/algobox-projet-binome/releases/tag/v1.0
+
