@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Projet AlgoBox - TP
 
 ## Description
@@ -13,3 +14,6 @@ Les fichiers `.algo` sont situés dans le dossier `src/`.
 ## Lien GitHub
 https://github.com/ViktorStopar/algobox-projet-binome/releases/tag/v1.0
 
+=======
+# Projet AlgoBox 
+>>>>>>> a9734da (Ajout du README et des contributeurs)
